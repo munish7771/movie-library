@@ -1,10 +1,10 @@
-package analytics.think.spring;
+package com.example.boot;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApplicationTests {
+class BootApplicationTests {
 
 	@Test
 	void contextLoads() {
